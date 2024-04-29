@@ -1,6 +1,6 @@
 # TrilhaGitTechForge
 
-Sistema de controle de versão
+Sistema de Controle de Versão.
 
 Um sistema de controle de versão é uma ferramenta que auxilia no gerenciamento das alterações feitas em arquivos ao longo do tempo. Ele permite que você acompanhe as modificações feitas em um projeto, reverta para versões anteriores, compare mudanças ao longo do tempo e coordene o trabalho entre várias pessoas.
 
